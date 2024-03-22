@@ -1,0 +1,15 @@
+# Ignore word2vec model
+*.bin
+
+# Ignore PDF files
+*.pdf
+
+# Ignore model files
+*.model
+*.model.vectors.npy
+
+# Formula derivation
+*.png
+
+# Ignore dataset
+*.csv
